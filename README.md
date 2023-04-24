@@ -3,5 +3,7 @@
 
 > ### This guide will be covering the following:
 ## 1. Configure (how to set up the vision sensor)
+
 ## 2. Track Objects + Colours
+
 ## 3. Programming the sensor
