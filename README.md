@@ -7,6 +7,6 @@
 ## 2. Track Objects + Colours
 
 ## 3. Programming the sensor
-- [Guide]
+- [Guide]()
 - [Automated Code Example (CodeBlocks)](https://github.com/BenDo2006/VEXcode-V5-Vision-Sensor-Function/blob/main/AutomatedCodeExample.pdf)
 - [Automated Code Example (Python)](https://github.com/BenDo2006/VEXcode-V5-Vision-Sensor-Function/blob/main/CodeExamplePython.py)
